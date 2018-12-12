@@ -32,7 +32,7 @@ The command options are as follows:
 
     Use the EFF word list (default).
 
-  -d, --diceware
+  * -d, --diceware
 
     Use the Diceware word list.
 
