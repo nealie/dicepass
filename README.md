@@ -19,7 +19,7 @@ passphrase using the [EFF][eff] long word list. This assumes that the
 required word list has already been downloaded to `~.dicepass`. If not
 a helpful message will tell so and what to do:
 
-  > Unable to open ~/.dicepass/eff_large_wordlist.txt
+  > Unable to open ~/.dicepass/eff_large_wordlist.txt  
   > You may need to fetch it with the --fetch option
 
 The command options are as follows:
